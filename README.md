@@ -77,6 +77,7 @@ node server.js
 ├── public/              # Frontend files
 │   ├── index.html      # Main application page
 │   ├── login.html      # Login page
+    ├── register.html   # register page
 │   └── styles/         # CSS styles
 └── package.json        # Project dependencies
 ```
